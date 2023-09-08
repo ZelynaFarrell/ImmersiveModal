@@ -18,9 +18,9 @@
 <br>
 
 ### **Videos and Demos**
-| Resume | CoverLetter |
+| Light | Dark |
 |:---------------:|:----------------:|
-|<img width="400" src="">|<img width="400" src="">|
+|<img width="400" src="https://github.com/ZelynaFarrell/ImmersiveModal/assets/117409535/4ac08f07-00d1-4920-a5d3-1906ffeb168d">|<img width="400" src="https://github.com/ZelynaFarrell/ImmersiveModal/assets/117409535/178d9de7-d3e6-421f-8320-865ae58769ed">|
 
 <br>
 
