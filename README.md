@@ -18,6 +18,14 @@
 <br>
 
 ### **Videos and Demos**
+
+| Resume | Cover Letter |
+|:---------------:|:----------------:|
+|<img width="400" src="https://github.com/ZelynaFarrell/ImmersiveModal/assets/117409535/0009cbfe-9639-4132-905e-11c4f0271152">|<img width="400" src="https://github.com/ZelynaFarrell/ImmersiveModal/assets/117409535/c1f50bcf-a1c0-4f77-ac0f-96d6237dd5f9">|
+
+
+<br>
+
 | Light | Dark |
 |:---------------:|:----------------:|
 |<img width="400" src="https://github.com/ZelynaFarrell/ImmersiveModal/assets/117409535/4ac08f07-00d1-4920-a5d3-1906ffeb168d">|<img width="400" src="https://github.com/ZelynaFarrell/ImmersiveModal/assets/117409535/178d9de7-d3e6-421f-8320-865ae58769ed">|
